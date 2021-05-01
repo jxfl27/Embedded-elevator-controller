@@ -1,0 +1,3 @@
+".\Objects\lift.obj" 
+TO ".\Objects\LIFT" 
+PRINT(".\Listings\LIFT.m51")
